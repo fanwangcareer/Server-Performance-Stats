@@ -4,6 +4,8 @@
 
 This bash script, `server-stats.sh`, is designed to analyze and display basic server performance statistics on Linux systems. It provides a quick overview of CPU usage, memory utilization, disk space, and top resource-consuming processes.
 
+This project is inspired by the "Server Stats" project on roadmap.sh: https://roadmap.sh/projects/server-stats
+
 ## Features
 
 The script outputs the following information:
